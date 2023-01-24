@@ -518,3 +518,20 @@ form textarea{
         top: 100%;
     }
 }
+@media (max-width: 700px){
+    .slide .one{
+        font-size: 15px;
+    }
+    .slide .two{
+        font-size: 15px;
+    }
+    .home{
+        background-image: url(Foto\ portfolio03.png);
+    }
+    .home h1{
+        font-size: 35px;
+    }
+    .home h3{
+        font-size: 30px;
+    }
+}
